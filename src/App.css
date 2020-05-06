@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  
+}
+
+.X {
+  margin-left: 200px;
+}
+
+.Y {
+  margin-left: 350px;
+  margin-bottom: 50px;
+}
+
+.rowC{display:flex; flex-direction:row;}
